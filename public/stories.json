@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "src": "/1_forest_mist.jpg",
+    "alt": "Forest covered in morning mist"
+  },
+  {
+    "id": 2,
+    "src": "/2_mountain_dawn.jpg",
+    "alt": "Mountain peaks at dawn"
+  },
+  {
+    "id": 3,
+    "src": "/3_ocean_waves.jpg",
+    "alt": "Ocean waves crashing on shore"
+  },
+  {
+    "id": 4,
+    "src": "/4_sunset_sky.jpg",
+    "alt": "Sky glowing at sunset"
+  },
+  {
+    "id": 5,
+    "src": "/5_forest_path.jpg",
+    "alt": "Path winding through a forest"
+  }
+]
